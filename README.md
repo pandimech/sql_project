@@ -54,10 +54,13 @@ The primary sales summary data used for analyze is 'fact_events_xlxs' file along
 ![revenue_campaign_out](scree_shot/revenue_campaign_out.png)
 ---
 ### Diwali Campaign ISU % Calculation for each product category  
-![diwali_campaign](scree_shot/Diwali_campaign_IUS%_out.png)
-![diwali_campaign_out](scree_shot/Diwali_campaign_IUS%_out.png)
+- [diwali_campaign](scree_shot/Diwali_campaign_IUS%_out.png)
+- [diwali_campaign_out](scree_shot/Diwali_campaign_IUS%_out.png)
 ---
-
+### Top 5 products ranked by Incremental Revenue Percentage
+- [top_5](scree_shot/Top5_IR%.png)
+- [top_5_out](scree_shot/top5_IR%.out.png)
+---
 ## Promotion Type Analysis
 ## Product And Category Analysis
 ## Recommendation
